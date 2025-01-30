@@ -1,1 +1,4 @@
-Console.WriteLine("Jameel Ahmed ,Roll no 37");
+int x = 20;
+int y=10;
+z=x/y;
+Console.WriteLine(z);
